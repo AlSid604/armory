@@ -102,7 +102,7 @@ const ButtonDiv = styled.div`
 
 export default function Content() {
   function clickAccountHandler() {
-    fetch("https://wotlkarmory.netlify.app/api/users")
+    fetch("https://wotlk-app.herokuapp.com/users")
       .then((response) => response.json())
       .then((json) => console.log(json));
   }
