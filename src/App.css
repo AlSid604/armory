@@ -1,0 +1,9 @@
+@import url("http://fonts.cdnfonts.com/css/warcraft");
+@font-face {
+  font-family: "warcraft"; /*Can be any text*/
+  src: local("warcraft"), url("./fonts/Warcraft-Yj2j.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+}

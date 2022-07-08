@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.96603872.css","mappings":"oDACA,WACE,oBAAuB,CACvB,kGACF","sources":["App.css"],"sourcesContent":["@import url(\"http://fonts.cdnfonts.com/css/warcraft\");\n@font-face {\n  font-family: \"warcraft\"; /*Can be any text*/\n  src: local(\"warcraft\"), url(\"./fonts/Warcraft-Yj2j.ttf\") format(\"truetype\");\n}\n"],"names":[],"sourceRoot":""}
