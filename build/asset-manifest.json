@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.96603872.css",
-    "main.js": "/static/js/main.2c5c51ad.js",
+    "main.css": "/static/css/main.3770d89f.css",
+    "main.js": "/static/js/main.b261e31f.js",
     "static/media/armory.webp": "/static/media/armory.c56867e91c72f90b27b1.webp",
     "static/media/Warcraft-Yj2j.ttf": "/static/media/Warcraft-Yj2j.b5e9812632aea6e8523f.ttf",
     "index.html": "/index.html",
-    "main.96603872.css.map": "/static/css/main.96603872.css.map",
-    "main.2c5c51ad.js.map": "/static/js/main.2c5c51ad.js.map"
+    "main.3770d89f.css.map": "/static/css/main.3770d89f.css.map",
+    "main.b261e31f.js.map": "/static/js/main.b261e31f.js.map"
   },
   "entrypoints": [
-    "static/css/main.96603872.css",
-    "static/js/main.2c5c51ad.js"
+    "static/css/main.3770d89f.css",
+    "static/js/main.b261e31f.js"
   ]
 }
